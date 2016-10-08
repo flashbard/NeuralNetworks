@@ -1,4 +1,4 @@
-Neural Networks in Python:
+**Neural Networks in Python**
 
 Learning Neural Nets. Adding all my related projects in Python here. As of now, I have implemented the following:
 1) 2-Layer NN.
